@@ -1,3 +1,7 @@
+/* Index page styling - custom */
+html {
+  font-family: 'Cuprum', sans-serif;
+}
 
 input, button {
   outline: none;
